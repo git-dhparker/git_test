@@ -1,3 +1,3 @@
 # git_test
-Initial test
-boom
+Initial test<br />
+<h3>boom</h3>
